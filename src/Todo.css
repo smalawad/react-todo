@@ -1,0 +1,14 @@
+
+.todo-progress {
+    color: #126e82;
+    outline: none; 
+    font-size: 1.2rem;
+    padding: 18px;
+    margin: 1px;
+    background: #9ede73;
+    padding: 0.5em 1.2em;
+}
+
+.todo-progress:hover{
+    background: #5aa897;
+}

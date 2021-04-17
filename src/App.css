@@ -1,0 +1,20 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); */
+
+* {
+  /* font-family: 'Poppins', sans-serif; */
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.todo-textfield{
+  width: 90vw;
+  max-width: 500px; 
+  color: #798777;
+  background: #ecd885;
+}
+
+.todo-status {
+  width: 90vw;
+  max-width: 500px;
+  margin-top: 24px;
+  background: #9ede73;
+}
